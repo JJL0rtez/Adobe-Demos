@@ -9,7 +9,7 @@ The program will track and display the user's progress as well as give feedback 
 ***CODE EXAMPLES***
 
 ## Photoshop
-The image files are part of a "map" pack for a Minecraft server that I donate my time to through development work and administration.
+The image files are part of a "map" pack for a Minecraft server that I donate my time to through development and administration work.
 
 Each map is required to be a 128x128 pixel PNG image, and when added to the server, allows the players to use these images as they build things in-game.
 
