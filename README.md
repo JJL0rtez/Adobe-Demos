@@ -1,12 +1,31 @@
 # Adobe-Demos
 
 ## Flash Programming
-The Flash program included is a basic matching game where the player needs to identify 3 different road signs. 
-**IMAGE***
-The program will track and display the user's progress as well as give feedback based on the correctness of the player's choices.
-***IMAGE**
+The Flash program included is a basic matching game where the player needs to identify 3 different road signs.
+The program will give feedback based on the correctness of the player's choices.
+![mainGame](https://github.com/JJL0rtez/Adobe-Demos/assets/19676291/df3ae047-06e6-445a-92eb-5f5a9f8aaa2c)
 
-***CODE EXAMPLES***
+I have included the flash files so the code can be rewiewed if needed.
+
+###Vision Document
+The following is short version of a vision document.
+
+####Required Features:
+1. Must allow users to match 3 or more items
+2. Must have a basic title screen with a basic animation
+3. Gives feedback to user based on correctness of answers
+4. Allows the user to restart the program at any time.
+
+####Time requirements
+No cost requirements as this is a project done on personal time for personal use.
+1. Main menu and navigation
+   30 minutes.
+2. Create and/or repurpose sign icons.
+   1 hour (can be less if previously made PS files are used)
+3. Code main game mechanics
+   2 hours
+4. Code restart mechanic
+   10 minutes
 
 ## Photoshop
 The image files are part of a "map" pack for a Minecraft server that I donate my time to through development and administration work.
