@@ -7,16 +7,16 @@ The program will give feedback based on the correctness of the player's choices.
 
 I have included the flash files so the code can be rewiewed if needed.
 
-###Vision Document
+### Vision Document
 The following is short version of a vision document.
 
-####Required Features:
+#### Required Features:
 1. Must allow users to match 3 or more items
 2. Must have a basic title screen with a basic animation
 3. Gives feedback to user based on correctness of answers
 4. Allows the user to restart the program at any time.
 
-####Time requirements
+#### Time requirements
 No cost requirements as this is a project done on personal time for personal use.
 1. Main menu and navigation
    30 minutes.
